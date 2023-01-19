@@ -1,0 +1,14 @@
+/* to make the body background black */
+body{
+    background-color: black;
+}
+/* character image styling */
+.character-img{
+    width: 100%;
+    height: 355px;
+    object-fit: contain;
+}
+ /* to change the cursor to pointer on hover  */
+.like{
+    cursor: pointer;
+}
